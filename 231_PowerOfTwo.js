@@ -11,4 +11,4 @@ function pow(n) {
   return pow(n / 2);
 }
 
-console.log(pow(1));
+console.log(pow(16));
